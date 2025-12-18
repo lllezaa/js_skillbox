@@ -1,0 +1,11 @@
+{
+  "films": [
+    {
+      "id": "5ccd",
+      "title": "оно",
+      "genre": "хуйня",
+      "releaseYear": 2016,
+      "isWatched": false
+    }
+  ]
+}
